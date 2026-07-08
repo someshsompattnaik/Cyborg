@@ -7,6 +7,7 @@ A dark-themed Security Operations Center (SOC) threat intelligence platform for 
 ---
 
 ## Demo
+<img width="692" height="424" alt="image" src="https://github.com/user-attachments/assets/34dbe869-334f-4d00-96ba-70e51e13dc59" />
 
 https://cyborg-soc.vercel.app
 
